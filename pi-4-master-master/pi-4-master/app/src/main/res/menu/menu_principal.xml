@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/goleiro"
+        android:onClick="listGol"
+        android:title="@string/goleiro"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/jogador"
+        android:onClick="listlin"
+        android:title="@string/linha"
+        app:showAsAction="always|withText" />
+    <item
+        android:icon="@drawable/gandula"
+        android:onClick="listgand"
+        android:title="@string/gandula"
+        app:showAsAction="always|withText" />
+    <item
+        android:icon="@drawable/apito"
+        android:onClick="listjui"
+        android:title="@string/juiz"
+        app:showAsAction="always|withText" />
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/buscar"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always|collapseActionView" />
+</menu>

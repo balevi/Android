@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\f4af79cdd61c75f1afcec1136b054db4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\6bf2229069fce940e0b431838cea5027\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\8d1ef2b35658c45ada6a25f07a15c5f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\672988ccc015493426585666706b6ced\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\253f6f39a61888b744875c409d9ad4e2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\0920bd462391cd77ecfad7bb1b52e358\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\038ff99e0b3a954c8f7b5782f91b5626\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\9d095561691958b3fb08d0a37c5aef92\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\4ea1c05586f9d839008126edf6f2a645\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\3c3caff3246effa7570d459560f84a3a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\dd15e2caadd1ce8c26b128673f1daf08\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\f12838ba55343e45277bb291bc5105d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\b6818bde6433bfb14fea95c42be60ee9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\f9734d1f1ace235bb5ee45fb69efc096\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\af74f24ef6e10b74c98d756b0339bfd0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\5db35d81528839d76683ce4ce7b64b32\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\3a8951057c721e841e1caaba78157996\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\8dd743698fb9925828a4b40166d2beaa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\f5632c95af92c41313485f6b4b813d9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\e76a17e75a37df01d5a1ef0c331f9ec1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\a0e1d4dbe32d5040baf7b44bd70b9757\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\d3e187606428b92c7dc817596517f543\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\cd14f9c5c04216e00fcbd33855cba813\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\39dc93944ac6a9736260dc269f513fbc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\c125d9842a096f48892ef25a42314699\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\6483f472c0beb849d0761bf433ae071d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\ebf0324522c91b443ab1a303106f14c9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\3e291a67de337ae931098f9445fadb90\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\8419fb68066fb6830c5c8d34ace7499b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\7b808b65f9839574b64255a18e49769b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\7481f1ebf1189d70f4e35bf993b16cbc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\a99fbe3f5ac0d5913108a0be0121d6be\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\6acc6806a75c0acf34acfa8de1d31878\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\6bf2229069fce940e0b431838cea5027\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\6bf2229069fce940e0b431838cea5027\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\a0e1d4dbe32d5040baf7b44bd70b9757\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\a0e1d4dbe32d5040baf7b44bd70b9757\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\cd14f9c5c04216e00fcbd33855cba813\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\cd14f9c5c04216e00fcbd33855cba813\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\a0e1d4dbe32d5040baf7b44bd70b9757\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.fut.Principal.CadastContrat
+ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:12:9-70
+	android:name
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:12:19-58
+activity#com.example.fut.Principal.PrincipalCont
+ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:13:9-61
+	android:name
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:13:19-58
+activity#com.example.fut.Principal.Inicio1
+ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:14:9-55
+	android:name
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:14:19-52
+activity#com.example.fut.Principal.Cadast_Boleiro
+ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:15:9-62
+	android:name
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:15:19-59
+activity#com.example.fut.Principal.TelaCadrast
+ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:16:9-59
+	android:name
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:16:19-56
+activity#com.example.fut.Principal.MainActivity
+ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:17:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\f4af79cdd61c75f1afcec1136b054db4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\f4af79cdd61c75f1afcec1136b054db4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\6bf2229069fce940e0b431838cea5027\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\6bf2229069fce940e0b431838cea5027\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\8d1ef2b35658c45ada6a25f07a15c5f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\8d1ef2b35658c45ada6a25f07a15c5f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\672988ccc015493426585666706b6ced\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\672988ccc015493426585666706b6ced\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\253f6f39a61888b744875c409d9ad4e2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\253f6f39a61888b744875c409d9ad4e2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\0920bd462391cd77ecfad7bb1b52e358\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\0920bd462391cd77ecfad7bb1b52e358\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\038ff99e0b3a954c8f7b5782f91b5626\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\038ff99e0b3a954c8f7b5782f91b5626\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\9d095561691958b3fb08d0a37c5aef92\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\9d095561691958b3fb08d0a37c5aef92\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\4ea1c05586f9d839008126edf6f2a645\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\4ea1c05586f9d839008126edf6f2a645\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\3c3caff3246effa7570d459560f84a3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\3c3caff3246effa7570d459560f84a3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\dd15e2caadd1ce8c26b128673f1daf08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\dd15e2caadd1ce8c26b128673f1daf08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\f12838ba55343e45277bb291bc5105d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\f12838ba55343e45277bb291bc5105d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\b6818bde6433bfb14fea95c42be60ee9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\b6818bde6433bfb14fea95c42be60ee9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\f9734d1f1ace235bb5ee45fb69efc096\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\f9734d1f1ace235bb5ee45fb69efc096\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\af74f24ef6e10b74c98d756b0339bfd0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\af74f24ef6e10b74c98d756b0339bfd0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\5db35d81528839d76683ce4ce7b64b32\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\5db35d81528839d76683ce4ce7b64b32\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\3a8951057c721e841e1caaba78157996\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\3a8951057c721e841e1caaba78157996\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\8dd743698fb9925828a4b40166d2beaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\8dd743698fb9925828a4b40166d2beaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\f5632c95af92c41313485f6b4b813d9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\f5632c95af92c41313485f6b4b813d9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\e76a17e75a37df01d5a1ef0c331f9ec1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\e76a17e75a37df01d5a1ef0c331f9ec1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\a0e1d4dbe32d5040baf7b44bd70b9757\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\a0e1d4dbe32d5040baf7b44bd70b9757\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\d3e187606428b92c7dc817596517f543\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\d3e187606428b92c7dc817596517f543\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\cd14f9c5c04216e00fcbd33855cba813\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\cd14f9c5c04216e00fcbd33855cba813\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\39dc93944ac6a9736260dc269f513fbc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\39dc93944ac6a9736260dc269f513fbc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\c125d9842a096f48892ef25a42314699\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\c125d9842a096f48892ef25a42314699\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\6483f472c0beb849d0761bf433ae071d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\6483f472c0beb849d0761bf433ae071d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\ebf0324522c91b443ab1a303106f14c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\ebf0324522c91b443ab1a303106f14c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\3e291a67de337ae931098f9445fadb90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\3e291a67de337ae931098f9445fadb90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\8419fb68066fb6830c5c8d34ace7499b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\8419fb68066fb6830c5c8d34ace7499b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\7b808b65f9839574b64255a18e49769b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\7b808b65f9839574b64255a18e49769b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\7481f1ebf1189d70f4e35bf993b16cbc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\7481f1ebf1189d70f4e35bf993b16cbc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\a99fbe3f5ac0d5913108a0be0121d6be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\a99fbe3f5ac0d5913108a0be0121d6be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\6acc6806a75c0acf34acfa8de1d31878\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\LEVI\.gradle\caches\transforms-2\files-2.1\6acc6806a75c0acf34acfa8de1d31878\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LEVI\Downloads\pi-4-master-master\app\src\main\AndroidManifest.xml

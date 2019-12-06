@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentCadast.goleiro">
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="170dp"
+        android:text="@string/endere_o"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@android:color/primary_text_light_nodisable" />
+
+    <EditText
+        android:id="@+id/txtBairroGol"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="170dp"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="@string/digite_seu_endere_o"
+        android:importantForAutofill="no"
+        android:inputType="textPersonName"
+        android:textColorHint="@android:color/primary_text_light_nodisable"
+        android:textSize="18sp"
+        tools:targetApi="o" />
+
+    <TextView
+        android:id="@+id/textView1rr3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="170dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/telefone"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@android:color/primary_text_light_nodisable" />
+
+    <EditText
+        android:id="@+id/txtTelGol"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="170dp"
+        android:layout_marginTop="60dp"
+        android:ems="10"
+        android:hint="@string/digite_seu_telefone"
+        android:importantForAutofill="no"
+        android:inputType="phone"
+        android:textColorHint="@android:color/primary_text_light_nodisable"
+        android:textSize="18sp"
+        tools:targetApi="o" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Login"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@android:color/primary_text_light_nodisable" />
+
+    <EditText
+        android:id="@+id/txtLoginGol"
+        android:layout_width="155dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="@string/digite_seu_login"
+        android:importantForAutofill="no"
+        android:inputType="textPersonName"
+        android:textColor="@android:color/primary_text_light_nodisable"
+        android:textColorHint="@android:color/primary_text_light_nodisable"
+        tools:targetApi="o" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="@string/Senha"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@android:color/primary_text_light_nodisable" />
+
+    <EditText
+        android:id="@+id/txtSenhaGol"
+        android:layout_width="155dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:ems="10"
+        android:hint="@string/digite_sua_senha"
+        android:importantForAutofill="no"
+        android:inputType="textPassword"
+        android:textColorHint="@android:color/primary_text_light_nodisable"
+        tools:targetApi="o" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="@string/nome"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@android:color/primary_text_light_nodisable" />
+
+    <EditText
+        android:id="@+id/txtNomeGol"
+        android:layout_width="155dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="110dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/digite_seu_nome"
+        android:inputType="textPersonName"
+        android:textColorHint="@android:color/primary_text_light_nodisable"
+        tools:targetApi="o" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="142dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="150dp"
+        android:text="@string/idade1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@android:color/primary_text_light_nodisable" />
+
+    <EditText
+        android:id="@+id/txtIdadeGol"
+        android:layout_width="155dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:ems="10"
+        android:hint="@string/digite_sua_idade"
+        android:importantForAutofill="no"
+        android:inputType="datetime"
+        android:textColorHint="@android:color/primary_text_light_nodisable"
+        tools:targetApi="o" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="@string/altura"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@android:color/primary_text_light_nodisable" />
+
+    <EditText
+        android:id="@+id/txtAlturaGol"
+        android:layout_width="155dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="210dp"
+        android:ems="10"
+        android:hint="@string/digite_sua_altura"
+        android:importantForAutofill="no"
+        android:inputType="numberDecimal"
+        android:textColorHint="@android:color/primary_text_light_nodisable"
+        tools:targetApi="o" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="255dp"
+        android:text="@string/peso"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@android:color/primary_text_light_nodisable" />
+
+    <EditText
+        android:id="@+id/txtPesoGol"
+        android:layout_width="155dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="260dp"
+        android:ems="10"
+        android:hint="@string/digite_seu_peso"
+        android:importantForAutofill="no"
+        android:inputType="numberDecimal"
+        android:textColorHint="@android:color/primary_text_light_nodisable"
+        tools:targetApi="o" />
+
+    <TextView
+        android:id="@+id/LikeGol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="180dp"
+        android:text="@string/_1"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/btnsalvgoleiro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="300dp"
+        android:text="@string/salvar" />
+
+</FrameLayout>

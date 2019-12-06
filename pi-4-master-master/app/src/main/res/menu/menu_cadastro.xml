@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:icon="@drawable/maleta"
+        android:onClick="listcadGol"
+        android:title="@string/goleiro"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/jogador"
+        android:onClick="listcadlin"
+        android:title="@string/linha"
+        app:showAsAction="always|withText" />
+    <item
+        android:icon="@drawable/gandula"
+        android:onClick="listcadgand"
+        android:title="@string/gandula"
+        app:showAsAction="always|withText" />
+    <item
+        android:icon="@drawable/apito"
+        android:onClick="listcadjui"
+        android:title="@string/juiz"
+        app:showAsAction="always|withText" />
+
+
+</menu>

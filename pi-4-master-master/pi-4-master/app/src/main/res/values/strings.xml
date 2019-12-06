@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">FUT</string>
+    <string name="senha">SENHA</string>
+    <string name="entra">ENTRA</string>
+    <string name="registre_aqui">Registre Aqui !</string>
+    <string name="login">LOGIN</string>
+    <string name="option">Escolha uma opção !</string>
+    <string name="boleiro">Boleiro</string>
+    <string name="contratante">Contratante</string>
+    <string name="goleiro">GOLEIRO</string>
+    <string name="linha">LINHA</string>
+    <string name="gandula">GANDULA</string>
+    <string name="juiz">JUIZ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nome">Nome:</string>
+    <string name="digite_seu_nome">Digite seu Nome...</string>
+    <string name="idade">Nascimento:</string>
+    <string name="idade1">Data Nascimento:</string>
+    <string name="digite_sua_idade">Digite sua data...</string>
+    <string name="altura">Altura:</string>
+    <string name="digite_sua_altura">Digite sua altura...</string>
+    <string name="peso">Peso:</string>
+    <string name="digite_seu_peso">Digite seu peso...</string>
+    <string name="salvar">Salvar</string>
+    <string name="Login">Login:</string>
+    <string name="digite_seu_login">Digite seu Login...</string>
+    <string name="Senha">Senha:</string>
+    <string name="digite_sua_senha">Digite sua Senha...</string>
+    <string name="posi">Posição:</string>
+    <string name="endere_o">Bairro:</string>
+    <string name="string_endere_o">Bairro:</string>
+    <string name="digite_seu_endere_o">Digite seu Bairro...</string>
+    <string name="perfil_de_juiz">Perfil de Juiz</string>
+    <string name="goleiros">Goleiros</string>
+    <string name="buscar">Buscar</string>
+    <string name="mercado">Mercado</string>
+    <string name="ranking">Ranking</string>
+    <string name="vazio">\"\"</string>
+    <string name="perfil1">Perfil</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="editar_perfil">Editar Perfil</string>
+    <string name="excluir_perfil">Excluir Perfil</string>
+    <string name="digite_seu_telefone">Digite seu Telefone...</string>
+    <string name="telefone">Telefone:</string>
+    <string name="seja_um_contratante">Seja um Contratante!</string>
+    <string name="rank">RANK</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="posicao">
+        <item>Atacante</item>
+        <item>Meio-campo</item>
+        <item>Lateral</item>
+        <item>Zaqueiro</item>
+    </string-array>
+
+</resources>

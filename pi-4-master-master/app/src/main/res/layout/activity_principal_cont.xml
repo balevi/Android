@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallp"
+    tools:context=".Principal.PrincipalCont">
+
+    <Button
+        android:id="@+id/btnMerc"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/mercado"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/mercado"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#ECECEC"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnMerc" />
+
+    <Button
+        android:id="@+id/btnExcluirPerfil"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/delete"
+        android:visibility="visible"
+        app:layout_constraintStart_toEndOf="@+id/btnMerc"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtPerfil1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="93dp"
+        android:layout_marginTop="9dp"
+        android:textSize="18sp"
+        android:text="@string/excluir_perfil"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#ECECEC"
+        android:visibility="visible"
+        app:layout_constraintStart_toEndOf="@+id/text"
+        app:layout_constraintTop_toBottomOf="@+id/btnExcluirPerfil" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
